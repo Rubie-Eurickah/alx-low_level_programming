@@ -2,9 +2,8 @@
 #include "main.h"
 
 /**
- * _abs - Prints the absolute value of an integer.
- * @n - The number to be computed
- * @int: Value should be and integer
+ * _abs - Prints the absolute value of an inter
+ * @n: Value to be computed
  * Return: Absolute value of a number or 0
  */
 
