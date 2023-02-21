@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * add - Adds tow numbers
+ * add - Adds two numbers
  *@a: First integer to be computed
  *@b: Second integer to be computed
  * Return: Integer value
