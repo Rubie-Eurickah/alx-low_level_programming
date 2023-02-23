@@ -5,7 +5,7 @@
  *  Description - This file contains all the function prototypes used in this project.
  */
 
-int _putchar(int c);
+int _putchar(char c);
 int _isupper(int c);
 int _isdigit(int c);
 int mul(int a, int b);
