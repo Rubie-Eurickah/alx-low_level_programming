@@ -8,3 +8,4 @@ More projects on Pointers, Arrays and Strings.
 Todays task is on Pointer to Pointer, Strings and Multidimensional Arrays.
 Recursions is the task for today.
 Today I will be doing an assignment on Static libraries in C programming.
+This next assignment is on Argument Count (argc) and Argument Vector (argv).
