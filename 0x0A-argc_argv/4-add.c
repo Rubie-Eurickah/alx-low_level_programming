@@ -4,7 +4,7 @@
 #include <string.h>
 
 /**
- * main - Multiplies two numbers
+ * main - Adds two numbers
  * @argc: argument count
  * @argv: argument vector
  * Return: Always 0
