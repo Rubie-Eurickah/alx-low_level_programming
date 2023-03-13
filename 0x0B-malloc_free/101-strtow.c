@@ -57,7 +57,7 @@ int count_words(char *str)
  * strtow -Splits a string into words
  * @str: The string to be split
  *
- * Return: if str == NULL or str == "" or the function fails, it should return NULL
+ * Return: if str == NULL or str == "" or the function fails, return NULL
  *         Otherwise - a pointer to an array of strings (words)
  */
 
@@ -94,7 +94,7 @@ char **strtow(char *str)
 			free(strings);
 			return (NULL);
 		}
-		for (l = 0; l < letters; l++)
+	for (l = 0; l < letters; l++)
 			 strings[w][l] = str[index++];
 
 		 strings[w][l] = '\0';
